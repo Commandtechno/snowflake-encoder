@@ -1,6 +1,6 @@
 {
   "name": "snowflake-encoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "build": "tsc index --target es2020 --module CommonJS -d"
